@@ -1,0 +1,54 @@
+name: flutter_application_1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0  # Stylish fonts
+  font_awesome_flutter: ^10.7.0  # Social icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/supplement.png
+    - assets/equipment.png
+    - assets/clothing.png
+    - assets/whey.png
+    - assets/dumbbells.png
+    - assets/gloves.png
+    - assets/preworkout.png
+    - assets/tshirt.png
+    - assets/protein1.jpg
+    - assets/protein2.jpg
+    - assets/protein3.jpg
+    - assets/protein4.jpg
+    - assets/protein5.jpg
+    - assets/fitfood1.jpg
+    - assets/fitfood2.jpg
+    - assets/fitfood3.jpg
+    - assets/fitfood4.jpg
+    - assets/fitfood5.jpg
+    - assets/A1.jpg
+    - assets/A2.jpg
+    - assets/A3.jpg
+    - assets/A4.jpg
+    - assets/A5.jpg
+    - assets/logo.png
+    - assets/profile.png
+    - assets/Google.png
+    - assets/facebook.png
+    - assets/smartbottle.png
+    - assets/fitnessband.png
